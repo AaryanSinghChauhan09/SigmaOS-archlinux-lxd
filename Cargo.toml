@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-lxd"
+name = "sigmaos_archlinux_lxd"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-lxd component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-lxd component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-lxd"
+name = "sigmaos_archlinux_lxd"
 path = "src/lib.rs"
